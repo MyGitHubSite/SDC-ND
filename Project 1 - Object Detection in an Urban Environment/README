@@ -1,1 +1,23 @@
+Project: Object Detection in an Urban Environment
+Starter Code
+First, obtain the project files from the related Github repository.
 
+If you are unfamiliar with GitHub, Udacity has a brief GitHub tutorial to get you started. Udacity also provides a more detailed free course on git and GitHub. To learn about README files and Markdown, Udacity provides a free course on READMEs as well.
+
+Submission
+Your project will be reviewed based on the criteria in the project rubric.
+
+Note that your project submission is about more than just the code itself - it also includes specifications for code quality, use of good version control, including a Dockerfile or requirements.txt file (which can match to that provided in the starter code) for running your code, as well as a project write-up.
+
+As such, make sure your submission contains at least the following:
+
+Your code implementations within the following files:
+Exploratory Data Analysis.ipynb
+create_splits.py
+Any new pipeline .config files
+Explore augmentations.ipynb
+Any helper files needed to run the above
+Evidence of your git history (it is recommended to submit using a Github link)
+A Dockerfile or requirements.txt for running your code
+A project writeup, which can be either in the project README or its own .md or PDF file, along with requested visualizations
+Once you have everything ready and have checked your deliverables against everything in the rubric, you can click the "Submit Project" button on this page.
